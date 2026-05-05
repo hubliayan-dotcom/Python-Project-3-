@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market Data Analyzer",
+  "description": "End-to-end stock market analyzer with technical indicators, backtesting, and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time data fetching", "Technical analysis", "Strategy backtesting"]
+}

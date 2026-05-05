@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+plotly
+streamlit
+fastapi
+uvicorn
+python-multipart
+ta
+scipy
