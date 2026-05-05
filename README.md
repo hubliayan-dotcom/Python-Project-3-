@@ -109,14 +109,23 @@ npm run dev
 - `closing_price_chart.png`: Historical price trend with volume.
 - `moving_average_chart.png`: SMA 20 vs SMA 50 visualization.
 - `stock_analysis_report.md`: Executive summary of performance metrics.
-
+  
 ## 📸 Demo Preview
-- **Dashboard Overview**: `images/01_dashboard_overview.png`
-- **Price Chart with Indicators**: `images/03_closing_price_chart.png`
-- **Moving Average Strategy**: `images/04_moving_average_chart.png`
-- **Backtesting Results**: `images/05_backtest_results.png`
-- **Streamlit Analytics**: `images/06_streamlit_dashboard.png`
-- **Generated Report**: `images/07_final_report.png`
+
+### 1. Dashboard Overview (AAPL)
+![Dashboard](01_dashboard_overview_aapl.png)
+
+### 2. Price Chart with Indicators
+![Chart](02_price_chart_sma_aapl.png)
+
+### 3. RSI Momentum Analysis
+![RSI](03_rsi_momentum_analysis.png)
+
+### 4. Multi-Asset Analysis (NVDA)
+![NVDA](04_dashboard_overview_nvda.png)
+
+### 5. Strategy Performance (NVDA)
+![Equity](05_price_chart_equity_nvda.png)
 
 ## 🚀 Future Improvements
 - **Multi-timeframe analysis**: Incorporating 1h and 15m data for intraday strategies.
